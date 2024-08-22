@@ -1,0 +1,14 @@
+C:\Users\Vinny\source\repos\OnClickTest\OnClickTest\bin\Debug\OnClickTest.exe.config
+C:\Users\Vinny\source\repos\OnClickTest\OnClickTest\bin\Debug\OnClickTest.exe
+C:\Users\Vinny\source\repos\OnClickTest\OnClickTest\bin\Debug\OnClickTest.pdb
+C:\Users\Vinny\source\repos\OnClickTest\OnClickTest\obj\Debug\OnClickTest.Properties.Resources.resources
+C:\Users\Vinny\source\repos\OnClickTest\OnClickTest\obj\Debug\OnClickTest.ucMap.resources
+C:\Users\Vinny\source\repos\OnClickTest\OnClickTest\obj\Debug\OnClickTest.csproj.GenerateResource.cache
+C:\Users\Vinny\source\repos\OnClickTest\OnClickTest\obj\Debug\OnClickTest.csproj.CoreCompileInputs.cache
+C:\Users\Vinny\source\repos\OnClickTest\OnClickTest\obj\Debug\OnClickTest.exe
+C:\Users\Vinny\source\repos\OnClickTest\OnClickTest\obj\Debug\OnClickTest.pdb
+C:\Users\Vinny\source\repos\OnClickTest\OnClickTest\obj\Debug\OnClickTest.frmSeaBattle.resources
+C:\Users\Vinny\source\repos\OnClickTest\OnClickTest\obj\Debug\OnClickTest.SetShipForm.resources
+C:\Users\Vinny\source\repos\OnClickTest\OnClickTest\obj\Debug\OnClickTest.AddNameToStat.resources
+C:\Users\Vinny\source\repos\OnClickTest\OnClickTest\obj\Debug\OnClickTest.csprojAssemblyReference.cache
+C:\Users\Vinny\source\repos\OnClickTest\OnClickTest\obj\Debug\OnClickTest.StatForm.resources

@@ -1,0 +1,14 @@
+C:\Users\Sasha\Desktop\Новая папка (2)\OnClickTest\bin\Debug\SeaBattle.exe.config
+C:\Users\Sasha\Desktop\Новая папка (2)\OnClickTest\bin\Debug\SeaBattle.exe
+C:\Users\Sasha\Desktop\Новая папка (2)\OnClickTest\bin\Debug\SeaBattle.pdb
+C:\Users\Sasha\Desktop\Новая папка (2)\OnClickTest\obj\Debug\SeaBattle.csprojAssemblyReference.cache
+C:\Users\Sasha\Desktop\Новая папка (2)\OnClickTest\obj\Debug\SeaBattle.AddNameToStat.resources
+C:\Users\Sasha\Desktop\Новая папка (2)\OnClickTest\obj\Debug\SeaBattle.frmSeaBattle.resources
+C:\Users\Sasha\Desktop\Новая папка (2)\OnClickTest\obj\Debug\SeaBattle.Properties.Resources.resources
+C:\Users\Sasha\Desktop\Новая папка (2)\OnClickTest\obj\Debug\SeaBattle.SetShipForm.resources
+C:\Users\Sasha\Desktop\Новая папка (2)\OnClickTest\obj\Debug\SeaBattle.StatForm.resources
+C:\Users\Sasha\Desktop\Новая папка (2)\OnClickTest\obj\Debug\SeaBattle.ucMap.resources
+C:\Users\Sasha\Desktop\Новая папка (2)\OnClickTest\obj\Debug\SeaBattle.csproj.GenerateResource.cache
+C:\Users\Sasha\Desktop\Новая папка (2)\OnClickTest\obj\Debug\SeaBattle.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\Desktop\Новая папка (2)\OnClickTest\obj\Debug\SeaBattle.exe
+C:\Users\Sasha\Desktop\Новая папка (2)\OnClickTest\obj\Debug\SeaBattle.pdb
